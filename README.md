@@ -1,5 +1,3 @@
 # Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Try
+Spice-Sage-AI-Cook - https://6000-firebase-studio-1749704635628.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev/
